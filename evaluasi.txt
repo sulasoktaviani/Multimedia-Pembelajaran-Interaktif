@@ -1,0 +1,41 @@
+|
+Yang bukan merupakan ciri jaringan komputer adalah....*
+a. Berbagi saluran komunikasi (internet)*
+b. Berbagi user (brainware)*
+c. Berbagi pakai perangkat kelas (hardware)*
+d. Berbagi pakai perangkat lunak (software)*
+e. Berbagi data dengan mudah*
+b. Berbagi user (brainware)*
+|
+Dibawah ini terdapat beberapa manfaat jaringan komputer, kecuali....*
+a. Sebagai sarana untuk embagi sumber daya yang ada*
+b. Reliabilitas tinggi*
+c. Menghemat biaya, menghemat peralatan yang harus digunakan*
+d. Sebagai sarana komunikasi*
+e. Sebagai penghubung hardware dan software*
+e. Sebagai penghubung hardware dan software*
+|
+Jarak atau cakupan pada jaringan LAN adalah....*
+a. 100 s/d 1000 meter*
+b. 1000 s/d 10.000 meter*
+c. 10.000 s/d 100.000 meter*
+d. > 1000.000 meter*
+e. 10 s/d 100 meter*
+b. 1000 s/d 10.000 meter*
+|
+Pernyataan dibawah ini yang tepat mengenai jaringan MAN adalah....*
+a. Ani mengirim sms kepada saudaranya yang berada di luar kota*
+b. Ani mengirim uang kepada ibunya di kampung*
+c. Ani menelpon ayahnya diluar negeri*
+d. Ani mengirim email kepada kakaknya yang berada di luar kota*
+e. Ani mengirim email kepada adiknya yang berada di luar negeri*
+a. Ani mengirim sms kepada saudaranya yang berada di luar kota*
+|
+MAN adalah gabungan dari jenis jaringan lain. Jenis jaringan tersebut adalah ....*
+a. WAN*
+b. PAN*
+c. LAN*
+d. WPAN*
+e. A dan B benar*
+c. LAN*
+|
