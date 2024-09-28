@@ -1,41 +1,46 @@
 |
-Yang bukan merupakan ciri jaringan komputer adalah....*
-a. Berbagi saluran komunikasi (internet)*
-b. Berbagi user (brainware)*
-c. Berbagi pakai perangkat kelas (hardware)*
-d. Berbagi pakai perangkat lunak (software)*
-e. Berbagi data dengan mudah*
-b. Berbagi user (brainware)*
+Pasangan nama perangkat dan jenisnya yang benar adalah ....*
+a. Joystick - output device*
+b. Monitor - storage device*
+c. Keyboard - processing device*
+d. Mouse - input device*
+d. Mouse - input device*
 |
-Dibawah ini terdapat beberapa manfaat jaringan komputer, kecuali....*
-a. Sebagai sarana untuk embagi sumber daya yang ada*
-b. Reliabilitas tinggi*
-c. Menghemat biaya, menghemat peralatan yang harus digunakan*
-d. Sebagai sarana komunikasi*
-e. Sebagai penghubung hardware dan software*
-e. Sebagai penghubung hardware dan software*
+Perhatikan perangkat keras berikut:
+(1)	Monitor
+(2)	Speaker
+(3)	CPU
+(4)	Mouse
+(5)	Printer 
+Perangkat keras yang berfungsi untuk menampilkan data yang telah diproses oleh bagian prosesor yang sebelumnya data diambil oleh perangkat masukan ditunjukkan oleh nomor ....*
+a. (1), (2), dan (4)*
+b. (1), (2), dan (5)*
+c. (1), (3), dan (5)*
+d. (3), (4), dan (5)*
+b. (1), (2), dan (5)*
 |
-Jarak atau cakupan pada jaringan LAN adalah....*
-a. 100 s/d 1000 meter*
-b. 1000 s/d 10.000 meter*
-c. 10.000 s/d 100.000 meter*
-d. > 1000.000 meter*
-e. 10 s/d 100 meter*
-b. 1000 s/d 10.000 meter*
+Perhatikan pernyataan di bawah ini
+(1)	Dapat mencetak teks, gambar maupun foto dalam bentuk kertas
+(2)	Dapat menampilkan gambar dan video dalam bentuk tayangan
+(3)	Dapat mengeluarkan suara
+Jenis perangkat keras berdasarkan fungsi-fungsi di atas adalah ....*
+a. Input device*
+b. Processing device*
+c. Output device*
+d. Storage device*
+c. Output device*
 |
-Pernyataan dibawah ini yang tepat mengenai jaringan MAN adalah....*
-a. Ani mengirim sms kepada saudaranya yang berada di luar kota*
-b. Ani mengirim uang kepada ibunya di kampung*
-c. Ani menelpon ayahnya diluar negeri*
-d. Ani mengirim email kepada kakaknya yang berada di luar kota*
-e. Ani mengirim email kepada adiknya yang berada di luar negeri*
-a. Ani mengirim sms kepada saudaranya yang berada di luar kota*
+Komponen berikut ini terletak dalam casing (box) CPU, kecuali ...*
+a. Sound card*
+b. Monitor*
+c. Motherboard*
+d. RAM*
+b. Monitor*
 |
-MAN adalah gabungan dari jenis jaringan lain. Jenis jaringan tersebut adalah ....*
-a. WAN*
-b. PAN*
-c. LAN*
-d. WPAN*
-e. A dan B benar*
-c. LAN*
+Di bawah ini yang merupakan fungsi dari processing device yang benar adalah ....*
+a. Menyimpan sementara perintah data pada saat sebuah program dijalankan*
+b. Menerima masukan data berupa gambar, suara dan perintah*
+c. Sebagai pusat pengolahan data dan pengontrolan kerja komputer*
+d. Menampilkan data yang telah diproses ke layar monitor*
+c. Sebagai pusat pengolahan data dan pengontrolan kerja komputer*
 |
